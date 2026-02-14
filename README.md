@@ -22,9 +22,6 @@ Features:
 
 ---
 
-High quality video demo available in Releases.
----
-
 ## Requirements
 
 - Python 3.10+
