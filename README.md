@@ -75,3 +75,15 @@ FFmpeg must be accessible from terminal: ffmpeg -version
 If FFmpeg is not found, the application will not start.
 ```
 Thank you! Hopefully it will be handy :)
+
+```bash
+NOTE:
+## Audio Scan (Experimental) AND Smart audio Clean
+
+The built-in audio scanner is optimized for speech detection (interviews, podcasts, dialogue-driven content).
+
+It may not perform well on:
+- Music-heavy videos
+- Continuous ambient sound
+- High-noise recordings
+```
