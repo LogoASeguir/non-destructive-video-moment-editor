@@ -694,7 +694,7 @@ class MomentEditorWindow(QMainWindow):
         self.player.pause()
         self.position_slider.setValue(0)
         self.time_label.setText("00:00.00 / 00:00.00")
-        self.setWindowTitle(f"Reel Robot – {self.video_path.name}")
+        self.setWindowTitle(f"Moment Editor – {self.video_path.name}")
 
     def _on_slider_pressed(self) -> None:
         self._was_playing = (self.player.playbackState() == QMediaPlayer.PlaybackState.PlayingState)
