@@ -76,7 +76,7 @@ If FFmpeg is not found, the application will not start.
 ```
 Thank you! Hopefully it will be handy :)
 
-```bash
+```
 NOTE:
 ## Audio Scan & Smart Clean (Experimental)
 
