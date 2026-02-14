@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/demo_basic_edit.gif" width="800">
-  <img src="assets/demo_merge.gif" width="800">
-  <img src="assets/demo_export.gif" width="800">
-</p>
 # Non-Destructive Video Moment Editor (Python + FFmpeg)
 
 A PyQt6 desktop application for creating and managing video "moments" without altering the original media file. Includes smart audio-based speech segmentation and seamless FFmpeg export.
