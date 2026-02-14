@@ -10,7 +10,6 @@ Features:
 - JSON-based project structure
 - Seamless clip export via FFmpeg
 
-## 🎥 Demo
 
 ### Creating Moments
 ![Create Demo](assets/demo_basic_edit.gif)
