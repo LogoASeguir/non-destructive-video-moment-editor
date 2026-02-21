@@ -1,4 +1,4 @@
-# Non-Destructive Video Moment Editor (Python + FFmpeg)
+# Video Moment Editor (Python + FFmpeg)
 ![Status](https://img.shields.io/badge/status-local-lightgrey)
 ![License](https://img.shields.io/github/license/LogoASeguir/tool-moment-editor)
 ![Issues](https://img.shields.io/github/issues/LogoASeguir/tool-moment-editor)
@@ -9,7 +9,7 @@ Features:
 - IN / OUT slicing workflow
 - Compound moment merging (concatenated segments)
 - Smart clean (auto merge & remove micro-cuts)
-- Audio-based speech segmentation
+- Audio-based speech segmentation (pitch and noise filter)
 - JSON-based project structure
 - Seamless clip export via FFmpeg
 
